@@ -1,0 +1,19 @@
+.divLogin{
+    display: table;
+    margin: auto;
+    align-self: center;
+    text-align: center;
+}
+
+input{
+    margin: 5px;
+    width: 200px;
+}
+
+button{
+    width: 80px;
+}
+
+h4{
+    margin: 0;
+}
